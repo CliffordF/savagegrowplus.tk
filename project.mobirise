@@ -37,6 +37,15 @@
     "versionFirst": "5.3.5",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/cercle-vert-environnement-logo-1-128x128.png",
+    "mbrsiteDomain": "nm0xfrl8yw",
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 27,
     "versionPublish": "5.3.5"
   },
@@ -44,11 +53,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Savage Grow Plus",
+        "meta_descr": "Savage Grow Plus is a Male Enhencement Supplement for Men.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/cercle%20vert%20environnement%20logo%20(1)-1500x1500.png"
       },
       "components": [
         {
